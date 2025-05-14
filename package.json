@@ -1,0 +1,16 @@
+{
+  "name": "yt8-d2v-bne",
+  "version": "1.0.0",
+  "description": "Youtube Downloader Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "serverless-http": "^3.2.0"
+  }
+}
